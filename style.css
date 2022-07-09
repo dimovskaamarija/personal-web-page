@@ -1,0 +1,213 @@
+body{
+    font-size: 17px;
+
+    font-family: "Courier New",sans-serif ;
+background-color: #2d2d2d;
+    max-width: 1000px;
+}
+.navigacija{
+    display: inline-block;
+    font-size: 25px;
+   padding-left: 430px;
+    word-spacing: 20px;
+
+}
+a:link{
+    text-decoration: none;
+    color: #4d7063;
+    font-weight: bold;
+}
+a:visited{
+    text-decoration: none;
+    color: #4d7063;
+    font-weight: bold;
+}
+a:hover {
+    box-shadow: 0 0 11px #bbb39d;
+}
+.biografija{
+    margin-top: 20px;
+    color: #e7e7e7;
+    width:65%;
+    float: left;
+    text-align: justify;
+    margin-left: 150px;
+
+}
+h1{
+    color: #669b89;
+    font-family:"Lucida Handwriting",sans-serif;
+    margin-top: 40px;
+}
+.pic{
+    width: 150px;
+    float:left;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.me h1{
+    font-family: cursive;
+    font-weight: lighter;
+    color: #bbb39d;
+    font-size: 18px;
+    margin-left: 160px;
+}
+.me{
+    background: url("images/mee.png") no-repeat;
+    height: 100px;
+    margin-left: 123px;
+}
+footer{
+    background: url("images/banner-footer.jpg") repeat-x;
+    margin-top: 500px;
+    height: 150px;
+    width: 1500px;
+}
+.f1{
+    padding-left:90px;
+    padding-top: 90px;
+    color: black;
+    font-weight: bold;
+}
+#contact{
+    color: #669b89;
+    width: 50%;
+    float: left;
+}
+
+#contact{
+    margin-left: 150px;
+}
+
+#kontakt{
+    text-align: center;
+    margin-left: 400px;
+}
+#kontakt h1{
+    color: #bbb39d;
+}
+#kontakt h3{
+    color: #e7e7e7;
+}
+.info{
+    width: 70%;
+    float:left;
+    margin-left: 600px;
+    margin-top: -450px;
+}
+.info p{
+    color: #e7e7e7;
+    text-align: justify;
+}
+.info h3{
+    color: #669b89;
+}
+.info h4{
+    color: #bbb39d;
+}
+#broj{
+    background: url("images/phoner.jpg") no-repeat;
+    padding-left: 24px;
+}
+#email{
+    background: url("images/mails.jpg") no-repeat;
+    padding-left: 24px;
+}
+::placeholder{
+    color: grey;
+    opacity: 1;
+    line-height: 4;
+}
+#ed{
+    background: url("images/obraz.jpg") repeat-x;
+    height: 200px;
+    width: 900px;
+    margin-left: 250px;
+}
+#ed h1{
+    color: #2d2d2d;
+    padding-top: 110px;
+    padding-left: 10px;
+
+}
+#osn{
+    background: url("images/osnovno (1).jpg") no-repeat;
+    height: 252px;
+    margin-left: 260px;
+
+}
+#sred{
+    background: url("images/sredno.jpg") no-repeat;
+    height: 252px;
+    margin-left: 260px;
+}
+#fax{
+    background: url("images/fax.jpg") no-repeat;
+    height: 252px;
+    margin-left: 260px;
+}
+#osn h2, #sred h2, #fax h2{
+    color: #bbb39d;
+
+}
+#osn h3, #sred h3, #fax h3{
+    color: #e7e7e7;
+
+}
+#osnovno {
+    margin-left:280px;
+}
+#fakultet{
+    margin-left: 280px;
+}
+#sredno{
+    margin-left: 280px;
+}
+#cv a{
+    font-size: 24px;
+    text-align: center;
+background: url("images/icon.png") no-repeat;
+    padding-left: 30px;
+}
+#cv h3{
+    color: #bbb39d;
+    text-align: left;
+}
+#cv {
+    margin-left: 260px;
+    margin-bottom: -370px;
+}
+.hobi p{
+    color: #bbb39d;
+    text-align: justify;
+}
+.hobi{
+    margin-left: 290px;
+    margin-bottom: 20px;
+}
+.hobby {
+    margin-left: 200px;
+    margin-bottom: -400px;
+}
+#flower{
+    margin-left: 120px;
+    margin-top: 80px;
+}
+#water{
+    margin-left: 180px;
+    margin-top: 40px;
+}
+
+#flw{
+   margin-left: 360px;
+    margin-top: -200px;
+}
+#lake{
+    margin-left:660px;
+    margin-top: -400px;
+}
+#sun{
+    margin-left: 380px;
+    margin-top: -150px;
+}
